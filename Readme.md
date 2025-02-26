@@ -88,11 +88,18 @@ project-directory/
 
 ## How to run
 
-1. Data Preparation
+### 1. Data Preparation
 
 ``` bash
 python dtect/Data_preparation/preprocessing.py  #preprocesing of images
 python dtect/Data_preparation/transformation.py #transformation of geojson
 ```
 
-2. Training model
+### 2. Training model (in local computer)
+
+``` bash
+python dtect/main.py
+```
+
+###
+
