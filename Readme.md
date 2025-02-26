@@ -25,6 +25,12 @@ pyenv local Project-D-tect
 
 #### 3. Downloading required libraries
 
+with `setup.py` :
+
+```bash
+pip install .
+```
+if it doesn't work download it directly from `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 ```
