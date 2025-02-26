@@ -1,7 +1,7 @@
 # Project D-Tect
 ## Description
 
-**D-Tect** is a machine learning project to segment satellite images to recognize categories such as buildings, roads, and water sources. The segmentation task was accomplished using a U-Net architecture, a type of deep learning model well-suited for image segmentation.
+**D-Tect** is a machine learning project that segments satellite images to recognize categories such as buildings, roads, and water sources. The segmentation task was accomplished using a U-Net architecture, a type of deep learning model well-suited for image segmentation.
 
 The project was completed in a 10-day period as part of the Le Wagon Data Science and AI Bootcamp, where we applied various techniques from data preprocessing to model training, testing, and evaluation.
 
